@@ -4,9 +4,9 @@ This is a potential new frontend for the osu!UWaterloo club website.
 
 ## Acknowledgements
 
-The osu! cookie on the root page uses code borrowed from the [first-edition of the osu!UWaterloo website](https://github.com/JerryZhu99/osu-uwaterloo-site). Many thanks to [Player0](https://osu.ppy.sh/users/3662205) ([GitHub](https://github.com/JerryZhu99)) and [ThunderBird2678](https://osu.ppy.sh/users/3388082) ([GitHub](https://github.com/thunderbird2678)) for creating the first edition!
+The osu! cookie on the root page uses code borrowed from the [first-edition of the osu!UWaterloo website](https://github.com/JerryZhu99/osu-uwaterloo-site). Many thanks to [Player0](https://osu.ppy.sh/users/3662205) ([GitHub](https://github.com/JerryZhu99)) and [ThunderBird2678](https://osu.ppy.sh/users/3388082) ([GitHub](https://github.com/thunderbird2678)) for creating the first edition, and [Feiri](https://osu.ppy.sh/users/3214844) ([GitHub](https://github.com/yfxu)) for creating the second edition.
 
-This website is generated using [Hugo](https://gohugo.io/). The theme was developed by [Feiri](https://osu.ppy.sh/users/3214844) ([GitHub](https://github.com/yfxu)).
+This website is generated using [Hugo](https://gohugo.io/). The theme was developed by [solstice23](https://osu.ppy.sh/users/21226378) ([GitHub](https://github.com/solstice23)) and is based on the structure of the previous osu!UWaterloo website.
 
 This website displays content in the [Quicksand](https://fonts.google.com/specimen/Quicksand/about) font, which is licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
 
